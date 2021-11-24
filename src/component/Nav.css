@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+
+
+.main-div{
+    width: 30%;
+    margin-top: 50px;
+    float: right;
+    background:linear-gradient(red,gray,white);
+    font-size: 30px;
+    margin-right: 10px;
+
+    text-decoration: none;
+
+    border-radius: 10px;
+    padding: 10px;
+    
+
+   
+}
+.home {
+    padding: 10px;
+}
+
+.about {
+    padding: 10px;
+}
+.Contact {
+    padding: 10px;
+}
